@@ -7,6 +7,6 @@
  * in the user manual at https://docs.gradle.org/6.3/userguide/multi_project_builds.html
  */
 
-def prefixUsername = "00-Untitled"
-def projectName = "-PF13-JFX-BUSCAMINAS"
+def prefixUsername = "JD-Hernandez"
+def projectName = "-CalculadoraGrafica01"
 rootProject.name = prefixUsername + projectName
